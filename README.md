@@ -4,30 +4,30 @@ EDA is a critical step in the data analysis process because it sets the foundati
 
 - **Understanding the Data:**
 
-Gain insights into data structure, distribution, and characteristics.
+      Gain insights into data structure, distribution, and characteristics.
 
-Identify patterns and trends within the dataset.
+      Identify patterns and trends within the dataset.
 
 - **Identifying Relationships:**
 
-Uncover correlations and dependencies between variables.
+      Uncover correlations and dependencies between variables.
 
-Visualize relationships through scatter plots and correlation matrices.
+      Visualize relationships through scatter plots and correlation matrices.
 
 - **Detecting Anomalies and Outliers:**
 
-Identify unusual data points that may indicate errors or important deviations.
+      Identify unusual data points that may indicate errors or important deviations.
 
-Address anomalies early to ensure data quality and reliability.
+      Address anomalies early to ensure data quality and reliability.
 
 - **Data Cleaning and Preprocessing:**
 
-Identify and handle missing values, inconsistencies, and errors in the data.
+      Identify and handle missing values, inconsistencies, and errors in the data.
 
-Ensure data integrity before proceeding with further analysis.
+      Ensure data integrity before proceeding with further analysis.
 
 - **Feature Selection and Engineering:**
 
-Identify relevant features for analysis or modeling tasks.
+      Identify relevant features for analysis or modeling tasks.
 
-Explore potential new features through transformation or combination.
+      Explore potential new features through transformation or combination.
